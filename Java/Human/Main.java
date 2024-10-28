@@ -1,4 +1,4 @@
-import classes.Human;
+import Human.Human;
 import java.time.LocalDate;
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
